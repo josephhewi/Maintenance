@@ -1,5 +1,5 @@
-Page Name, File Name
-Home, index.php
-Work Orders, wo.php
-Maintenance, pms.php
-Lockout, loto.php
+Page Name, File Name, Short Name
+Home, index.php, Home
+Work Orders, wo.php, WO
+Maintenance, pms.php, PMS
+Lockout, loto.php, LOTO
